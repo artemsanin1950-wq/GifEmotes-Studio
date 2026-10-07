@@ -1,0 +1,8 @@
+name=GIF Emotes (Over Head)
+id=GifEmotes
+description=Play animated GIF emote bubbles over your head from a dedicated radial menu (G key)! Supports multiplayer and custom GIFs.
+poster=poster.png
+icon=icon.png
+versionMin=42.0.0
+modversion=1.0.0
+author=shadeisnotreal & shadeisreal
